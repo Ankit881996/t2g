@@ -47,6 +47,12 @@ header .navigation .menu-list {
 .navigation .menu-list li{
   margin-left: 20px;
 }
+.navigation .menu-list li i{
+  justify-content: center;
+                        display: grid;
+                        margin-bottom: -20px;
+                        grid-template-rows: auto auto;
+}
 
 
 
